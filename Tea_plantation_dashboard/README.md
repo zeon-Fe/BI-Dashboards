@@ -1,6 +1,8 @@
 # AgriViz
 A real-time, interactive data visualization dashboard for plantation and estate performance.
 
+<img width="903" height="444" alt="image" src="https://github.com/user-attachments/assets/05a04322-76d6-4913-b409-9d91425cf696" />
+
 ⚠️ This project is a conceptual demo based on a real-world application I built while working at a Former Company. All data has been anonymized or simulated. This version does not reflect any proprietary or confidential information.
 
 ## Overview
@@ -44,5 +46,3 @@ Aggregate and compare estate-level data across a plantation:
 ## Tech Stack
 - Frontend: React, Chart.js / D3.js
 - Backend: Node.js (with mock API/data for demo)
-
-<img width="903" height="444" alt="image" src="https://github.com/user-attachments/assets/05a04322-76d6-4913-b409-9d91425cf696" />
